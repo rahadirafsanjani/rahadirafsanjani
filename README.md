@@ -34,7 +34,7 @@ I'm a passionate developer who loves crafting efficient and elegant solutions ac
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahadirafsanjani&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=rahadirafsanjani&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
