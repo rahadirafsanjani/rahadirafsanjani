@@ -1,40 +1,61 @@
-# Hi there! 👋
+# Hi there, I'm Rafsanjani Rahadi 👋
 
-I'm a developer who finds joy in the intersection of **legacy systems** and **cutting-edge technology**.
+### Full-Stack Developer | Building scalable web applications
 
-## 🔧 What I Do
-
-Currently working on breathing new life into legacy codebases while staying excited about modern tech innovations. I specialize in:
-
-- **Legacy Archaeology** - Understanding old codebases and documenting the "why" behind the "what"
-- **Modernization** - Introducing modern practices without breaking everything
-- **Bridging Eras** - Making legacy systems talk to modern APIs and services
-
-## 💡 Philosophy
-
-> "Legacy code isn't technical debt—it's evidence of problems we've already solved."
-
-The best solutions combine time-tested patterns with modern capabilities. Refactoring is an art form.
-
-## 🛠️ Tech Stack
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahadirafsanjani&layout=compact&theme=dark&hide_border=true)](https://github.com/rahadirafsanjani)
-
-**Legacy:** Java, PHP, .NET, classic databases, reverse engineering undocumented systems  
-**Modern:** New frameworks, CI/CD, cloud architecture, containerization, AI tools
-
-## 🌱 Current Interests
-
-Testing untested legacy code • AI-assisted code understanding • Observability in old and new systems
-
-## 📫 Let's Connect
-
-Always happy to chat about legacy projects, new frameworks, or modernization strategies.
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahadirafsanjani&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/rahadirafsanjani)
+I'm a passionate developer who loves crafting efficient and elegant solutions across the full stack. From backend services to frontend experiences, I enjoy turning ideas into reality with clean, maintainable code.
 
 ---
 
-*"Evolution beats revolution."*
+## 🛠️ Tech Stack
+
+### Languages
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Rafsanjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 🚀 What I Do
+
+- 🔨 Build robust backend systems with Ruby on Rails, Go Fiber, and Laravel
+- 🎨 Create modern, responsive frontends with Next.js and Vue.js
+- ☁️ Deploy and manage applications on AWS infrastructure
+- 🐳 Containerize applications with Docker for consistent environments
+- ⚙️ Configure and optimize web servers with Nginx
+
+---
+
+## 📫 Get in Touch
+
+Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hi!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+⭐️ From [rafsanjani-rahadi](https://github.com/YOUR_USERNAME)
