@@ -33,9 +33,9 @@ I'm a passionate developer who loves crafting efficient and elegant solutions ac
 
 ## 📊 GitHub Stats
 
-![Rafsanjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Rafsanjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahadirafsanjani&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahadirafsanjani&layout=compact&theme=radical)
 
 ---
 
@@ -58,4 +58,4 @@ Feel free to reach out if you want to collaborate on a project, discuss tech, or
 
 ---
 
-⭐️ From [rafsanjani-rahadi](https://github.com/YOUR_USERNAME)
+⭐️ From [rafsanjani-rahadi](https://github.com/rahadirafsanjani)
