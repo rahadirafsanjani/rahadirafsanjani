@@ -18,7 +18,7 @@ The best solutions combine time-tested patterns with modern capabilities. Refact
 
 ## 🛠️ Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahadirafsanjani&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahadirafsanjani&layout=compact&theme=dark&hide_border=true)](https://github.com/rahadirafsanjani)
 
 **Legacy:** Java, PHP, .NET, classic databases, reverse engineering undocumented systems  
 **Modern:** New frameworks, CI/CD, cloud architecture, containerization, AI tools
@@ -33,7 +33,7 @@ Always happy to chat about legacy projects, new frameworks, or modernization str
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahadirafsanjani&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahadirafsanjani&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/rahadirafsanjani)
 
 ---
 
